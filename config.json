@@ -1,10 +1,10 @@
 {
   "exclude_host_name": [
-   "gcm.netmng.com", "cs.adingo.jp", "ums.adtechus.com", "www.google.co.in", "marketing.dropbox.com", "epiv.cardlytics.com", "secure.adnxs.com","ads.stickyadstv.com", "stats.g.doubleclick.net", "ak1s.abmr.net", "t.co", "api.demandbase.com", "cm.g.doubleclick.net", "dis.criteo.com", "www.google.com", "www.google-analytics.com", "fonts.googleapis.com", "bat.r.msn.com", "us-u.openx.net", "www.bizographics.com", "ad.sxp.smartclip.net", "pixel.rubiconproject.com", "a.company-target.com", "t4.liverail.com", "com-dbox.netmng.com", "dps.bing.com", "simage2.pubmatic.com", "googleads.g.doubleclick.net", "ssp.adskom.com", "4727608.fls.doubleclick.net", "load.s3.amazonaws.com", "stags.bluekai.com",   "sync.mathtag.com", "ap-southeast-1.dc.ads.linkedin.com", "dc.ads.linkedin.com", "pixel.mathtag.com", "sp.analytics.yahoo.com", "www.googleadservices.com", "sync.adap.tv", "imp2.ads.linkedin.com", "bat.bing.com","ad.360yield.com", "sync.adaptv.advertising.com","jp-u.openx.net", "sync.rhythmxchange.com", "b92.yahoo.co.jp", "x.bidswitch.net", "www.facebook.com", "fonts.gstatic.com", "analytics.twitter.com","cdn-static-secure.liverail.com", "tags.bluekai.com", "dsum-sec.casalemedia.com","ib.adnxs.com", "4212862.fls.doubleclick.net", "loadm.exelator.com","2.realtime.services.box.net","edit.boxlocalhost.com","s1464.t.eloqua.com"
+   "x.com","a.com","y.com"
   ],
    "exclude_file_type": ["png","jpg","css","js","svg","gif","woff"],
   "jmx_output_name": "test.jmx",
   "jmeter_home": "C:/Users/Ram/Documents/GitHub/qa-auto/Performace-Auto/apache-jmeter-2.12",
   "download_resource": false,
-  "har_location":"C:/Users/Ram/Documents/node/O365_drive.har"
+  "har_location":"C:/Users/Ram/Documents/node/drive.har"
 }
